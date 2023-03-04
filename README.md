@@ -39,7 +39,25 @@ This website was created from a template containing a simple HTML layout with a 
 
 Website deployed at eeast.github.io/CH3-PasswordGenerator/
 
-// TODO: Add website image
+![1677856194186](image/README/1677856194186.png)
+
+![1677856219074](image/README/1677856219074.png)
+
+![1677856243457](image/README/1677856243457.png)
+
+![1677856260975](image/README/1677856260975.png)
+
+![1677856280079](image/README/1677856280079.png)
+
+![1677856295782](image/README/1677856295782.png)
+
+![1677856316431](image/README/1677856316431.png)
+
+![1677856332308](image/README/1677856332308.png)
+
+![1677856345798](image/README/1677856345798.png)
+
+![1677856357375](image/README/1677856357375.png)
 
 ## License
 
